@@ -1,0 +1,14 @@
+.heading-top-categories {
+  display: block;
+  position: relative;
+  height: 42px;
+  margin: 90px 0 0 100px;
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Inter, var(--default-font-family);
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 41.507px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 127;
+}
